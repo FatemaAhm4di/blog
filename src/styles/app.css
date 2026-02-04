@@ -30,7 +30,7 @@ body {
 }
 
 .card-hover {
-  transition: transform 160ms ease, box-shadow 160ms ease;
+  transition: transform 160ms ease, box-shadow 170ms ease;
 }
 
 .card-hover:hover {
